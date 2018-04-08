@@ -147,11 +147,11 @@ header {
         padding: 10px;
         min-height: auto;
     }
-    /*.deck .card {
+    .deck .card {
         width: 20vw;
         height: 20vw;
-        margin: 1vw;
-    } */
+        margin:  1vw;
+    } 
     .score-panel {
         width: 90%;
     }
