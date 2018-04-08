@@ -8,4 +8,3 @@ On the score panel, the stars show how fast you are proceeding. If you win the g
 
 
 
-About the code: 
